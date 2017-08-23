@@ -864,6 +864,7 @@ body.nav-opened .nav {
     padding: 1px 0 5px 0;
     width: auto;
     height: 38px;
+    border-radius: 20%;
 }
 
 .menu-button {
